@@ -1,7 +1,5 @@
-android
-=======
-
 Android 初學
+============
 
 ### Google Android 開發工具
 
